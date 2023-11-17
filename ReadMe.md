@@ -1,7 +1,6 @@
 ## Plant Health Monitoring System
 ### Introduction
 The circuit is made up of 4 sensors, temperature, humidity, soil moisture and light. The whole system runs off an Arduino Uno. 
-![Circuit Diagram]('plant-status-schema.png')
 
 ### Components
 - Arduino Uno
